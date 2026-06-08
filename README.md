@@ -21,12 +21,8 @@ If you’d like to see what I’ve captured in everyday life, you can visit [my 
 I’ve always believed that technology is not only about efficiency and engineering. It is also about creativity, expression, and the connections between people. I’m still learning, still exploring, and still trying, step by step, to create things that actually mean something. Recently, I’ve been pushing myself to do at least something on GitHub every day — maybe a few commits, maybe just discovering interesting tools through Trending. So far, it feels like the lowest-cost yet most effective way I know to keep wandering through the world of technology and the internet.  
 我一直认为，技术不仅仅是效率和工程，它也关乎创造、表达，以及人与人之间的连接。我仍然在学习、在探索，也仍然在一步一步尝试做出真正有意义的东西。我正在努力推动自己每天在GitHub上面做些什么，可能是几个commits，也可能是在Trending里面发现一些有用的工具——这是我目前能想到的低成本且最有效的巡游网络世界的方式。
 
-<br>
-
 Anyway, feel free to look around. And if you’d like to chat, collaborate, or simply say hello, don’t hesitate to reach out.  
 总之，欢迎随便逛逛。如果你想交流、合作，或者只是打个招呼，也欢迎联系我。
-
-<br>
 
 ---
 
