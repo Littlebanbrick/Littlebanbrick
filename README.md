@@ -26,8 +26,6 @@ Anyway, feel free to look around. And if you’d like to chat, collaborate, or s
 
 ---
 
-<br>
-
 **Contact me / 一些联系方式**
 
 Email / 邮箱：[wcy30907002@qq.com](mailto:wcy30907002@qq.com)  
