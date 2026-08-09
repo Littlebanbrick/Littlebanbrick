@@ -15,8 +15,8 @@ Learning CS gives me a strange sense of power over machines, but life is obvious
 摄影就是其中之一，这是我从高中就有的爱好。那个时候手里只有一台很老旧的佳能单反。也许是过去的生活更有生活味的缘故，我总觉得当时照片里的色彩更浓郁、更富有情感。
 <br>
 
-If you’d like to see what I’ve captured in everyday life, you can visit [my blog](https://littlebanbrick.cn) or [my github page](https://littlebanbrick.github.io).   
-如果想看看我在生活中捕捉到了什么，可以前往我的[个人博客](https://littlebanbrick.cn)或者[GitHub 静态页面](https://littlebanbrick.github.io)。
+If you’d like to see what I’ve captured in everyday life, you can visit [my github page](https://littlebanbrick.cn).   
+如果想看看我在生活中捕捉到了什么，可以前往我的[GitHub 静态页面](https://littlebanbrick.cn)。
 <br>
 
 I’ve always believed that technology is not only about efficiency and engineering. It is also about creativity, expression, and the connections between people. I’m still learning, still exploring, and still trying, step by step, to create things that actually mean something. Recently, I’ve been pushing myself to do at least something on GitHub every day — maybe a few commits, maybe just discovering interesting tools through Trending. So far, it feels like the lowest-cost yet most effective way I know to keep wandering through the world of technology and the internet.  
